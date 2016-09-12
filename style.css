@@ -2,7 +2,6 @@
 body {
 	background-image:url(img/bg.png);
 	background-repeat:repeat-x;
-	background-color:#99CCCC;
 	margin: 0px;
 	margin-bottom: 5px;
 }
@@ -13,6 +12,7 @@ body {
 	margin-right: auto;
 	text-align: left;
 	border: solid 1px black;
+	background-color: white;
 }
 
 .header {
