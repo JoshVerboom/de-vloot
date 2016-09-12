@@ -1,6 +1,6 @@
 @charset "utf-8";
 body {
-	background-image:url(img/bg.png);
+	background-image:url(../img/bg.png);
 	background-repeat:repeat-x;
 	margin: 0px;
 	margin-bottom: 5px;
@@ -17,7 +17,7 @@ body {
 
 .header {
 	height: 252px;
-	background-image:url(img/header.jpg);
+	background-image:url(../img/header.jpg);
 	padding-top: 20px;
 	padding-left: 20px;
 }
